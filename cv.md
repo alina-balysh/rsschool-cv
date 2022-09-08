@@ -42,12 +42,14 @@ Hey! My name is Alina and I'm a software engineer. I'm supportive and enthusiast
 
 # Education
 
-2018 - 2021
+2018 – 2021
 **Belarusian State Technological University**
+
 Qualification: Design of electronic and web-publications.
 
-2022 - 2025
+2022 – 2025
 **Belarusian National Technical University**
+
 Qualification: Information Technology Software.
 
 # English
