@@ -22,7 +22,7 @@ Hey! My name is Alina and I'm a software engineer. I'm supportive and enthusiast
 - JavaScript, HTML5, CSS3, XML.
 - SAPUI5, Fiori Elements, jQuery.
 - MySQL.
-- REST, ODATA.
+- REST, OData.
 
 # Work experience
 
@@ -38,7 +38,17 @@ Hey! My name is Alina and I'm a software engineer. I'm supportive and enthusiast
 - REST/OData services integration.
 - Test development (OPA5, QUnit).
 - Freestyle Fiori Apps development.
-- Fiori Elements Apps extensions development.
+- Fiori Elements Apps extensions development. 
+
+# Education
+
+2018 - 2021
+**Belarusian State Technological University**
+Qualification: Design of electronic and web-publications.
+
+2022 - 2025
+**Belarusian National Technical University**
+Qualification: Information Technology Software.
 
 # English
 
