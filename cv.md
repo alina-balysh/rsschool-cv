@@ -1,4 +1,4 @@
-# *Balysh Alina, Minsk*
+﻿# *Balysh Alina, Minsk*
 
 **Email**: lina.balysh@gmail.com.
 
@@ -14,8 +14,8 @@ Hey! My name is Alina and I'm a software engineer. I'm supportive and enthusiast
 
 - Flexibility, adaptability, communication skills.
 - Teamwork, reliability, stress resistance.
-- Ability to quickly and efficiently learn new technologies. 
-- Curiosity, desire to progress. 
+- Ability to quickly and efficiently learn new technologies.
+- Curiosity, desire to progress.
 
 # Programming Languages and Technologies
 
@@ -27,7 +27,7 @@ Hey! My name is Alina and I'm a software engineer. I'm supportive and enthusiast
 # Work experience
 
 12.2018 – present
-**LeverX International LLC** (Minsk, Belarus) 
+**LeverX International LLC** (Minsk, Belarus)
 
 *Functions*: Software Engineer with the main focus on Front-End (SAPUI5/Fiori).
 
@@ -38,7 +38,7 @@ Hey! My name is Alina and I'm a software engineer. I'm supportive and enthusiast
 - REST/OData services integration.
 - Test development (OPA5, QUnit).
 - Freestyle Fiori Apps development.
-- Fiori Elements Apps extensions development. 
+- Fiori Elements Apps extensions development.
 
 # Education
 
